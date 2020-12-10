@@ -1,0 +1,13 @@
+h1 {
+  color: #006fee;
+  font-family: 'Space Ranger Academy Regular';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Space Ranger Academy Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Space Ranger Academy Regular'), url('spacerangeracad.woff') format('woff');
+}
