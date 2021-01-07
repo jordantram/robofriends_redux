@@ -1,5 +1,3 @@
 # robofriends
 
-A web app built using React to practice responsive design, search filtering, and API calls. Coded along Andrei Neagoie as part of Zero to Mastery bootcamp.
-
-View [here.](https://jordantram.github.io/robofriends/)
+Updated version of [Robofriends](https://github.com/jordantram/robofriends) which uses Redux for state management.
